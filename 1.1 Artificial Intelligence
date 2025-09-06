@@ -1,0 +1,52 @@
+# Artificial Intelligence (AI)
+
+## Types of AI
+
+AI can be classified in two main ways:
+1. **Based on Capabilities**
+2. **Based on Functionalities**
+
+---
+
+### 1. Types of AI Based on Capabilities
+- **Narrow AI (Weak AI)**  
+  Focused on performing a single task efficiently. Example: Siri, Google Assistant.  
+
+- **General AI (True Intelligence)**  
+  AI that can perform any intellectual task like a human.  
+
+- **Super AI**  
+  AI that surpasses human intelligence and can perform tasks better than humans.  
+
+---
+
+### 2. Types of AI Based on Functionalities
+- **Reactive Machines**  
+  Only respond to specific inputs, no memory. Example: IBM Deep Blue.  
+
+- **Limited Memory**  
+  Can use past data to make decisions. Example: Self-driving cars.  
+
+- **Theory of Mind**  
+  AI that understands emotions, beliefs, and can interact socially.  
+
+- **Self-Aware AI**  
+  Future AI that has consciousness and self-awareness.  
+
+---
+
+## Hierarchy of Artificial Intelligence
+
+1. **Artificial Intelligence**  
+   The theory and methods to build machines that think and act like humans.  
+
+2. **Machine Learning (ML)**  
+   The ability for computers to learn from experiences or data without explicit programming.  
+
+3. **Deep Learning (DL)**  
+   Mimics the human brain using artificial neural networks (e.g., Transformers) to perform complex tasks.  
+
+4. **Generative AI**  
+   Generates new text, audio, images, videos, or code-based content.  
+
+---
